@@ -1,0 +1,23 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.kafka.poc</groupId>
+
+    <artifactId>kafka-poc</artifactId>
+
+    <version>3.5.9</version>
+
+    <packaging>pom</packaging>
+
+    <modules>
+
+        <module>common-events</module>
+
+        <module>order-service</module>
+
+        <module>inventory-service</module>
+
+    </modules>
+
+</project>
