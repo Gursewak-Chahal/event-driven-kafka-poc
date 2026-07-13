@@ -4,5 +4,7 @@ public enum EventType {
 
     ORDER_CREATED,
 
-    INVENTORY_RESERVED
+    INVENTORY_RESERVED,
+
+    SHIPMENT_CREATED
 }
